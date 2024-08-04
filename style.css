@@ -1,0 +1,23 @@
+.container{
+    border: 1px solid black;
+    width: 300px;
+    margin: 0 auto;
+    padding: 2px;
+    text-align: center;
+    margin-top: 50px;
+}
+.pass{
+    font-size: large;
+    padding: 2px;
+    border: 2px solid black;
+}
+.btn{
+    background-color: red;
+    border: 2px solid black;
+    margin-top: 20px;
+    font-size: large;
+    padding: 2px;
+    color: white;
+}p{
+    font-size: large;
+}
